@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ValidateRSA-ID</string>
+    <string name="instruction">Please enter a South African Identity Number or Passport Number :</string>
+    <string name="inputText">ENTER A 13 DIGIT NUMERIC ID</string>
+</resources>
